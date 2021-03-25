@@ -2,8 +2,8 @@
 Less than one inch square solar charging board based on the bq25504 solar harvesting ic with onboard solar cell for low power applications
 
 ## Parts 
-KXOB25-04X3F-TR: MONOCRYSTL SOLAR CELL 22MW 2.07V 
-TI BQ25504: Ultra Low-Power Boost Converter With Battery Management 
+- KXOB25-04X3F-TR: MONOCRYSTL SOLAR CELL 22MW 2.07V 
+- TI BQ25504: Ultra Low-Power Boost Converter With Battery Management 
 ### Configuration
 Currently configured for single cell li-ion batteries but I've tested it with supercapacitors with voltage ratings over 4.2v
 
